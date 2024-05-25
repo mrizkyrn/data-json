@@ -1,0 +1,94 @@
+{
+   "result": [
+      {
+            "rank": "1",
+            "image": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
+            "titles": "Frieren: Beyond Journey's End",
+            "episodes": "28",
+            "studios": "Madhouse",
+            "genres": "Adventure, Drama, Fantasy",
+            "score": "9.37"
+      },
+      {
+            "rank": "2",
+            "image": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+            "titles": "Fullmetal Alchemist: Brotherhood",
+            "episodes": "64",
+            "studios": "Bones",
+            "genres": "Action, Adventure, Drama, Fantasy",
+            "score": "9.09"
+      },
+      {
+            "rank": "3",
+            "image": "https://cdn.myanimelist.net/images/anime/1935/127974.jpg",
+            "titles": "Steins;Gate",
+            "episodes": "24",
+            "studios": "White Fox",
+            "genres": "Drama, Sci-Fi, Suspense",
+            "score": "9.07"
+      },
+      {
+            "rank": "4",
+            "image": "https://cdn.myanimelist.net/images/anime/3/72078.jpg",
+            "titles": "Gintama' (2015)",
+            "episodes": "51",
+            "studios": "Bandai Namco Pictures",
+            "genres": "Action, Comedy, Sci-Fi",
+            "score": "9.06"
+      },
+      {
+            "rank": "5",
+            "image": "https://cdn.myanimelist.net/images/anime/1517/100633.jpg",
+            "titles": "Attack on Titan Season 3 Part 2",
+            "episodes": "10",
+            "studios": "Wit Studio",
+            "genres": "Action, Drama, Suspense",
+            "score": "9.05"
+      },
+      {
+            "rank": "6",
+            "image": "https://cdn.myanimelist.net/images/anime/1245/116760.jpg",
+            "titles": "Gintama: The Very Final",
+            "episodes": "1",
+            "studios": "Bandai Namco Pictures",
+            "genres": "Action, Comedy, Drama, Sci-Fi",
+            "score": "9.04"
+      },
+      {
+            "rank": "7",
+            "image": "https://cdn.myanimelist.net/images/anime/4/50361.jpg",
+            "titles": "Gintama (2011)",
+            "episodes": "51",
+            "studios": "Sunrise",
+            "genres": "Action, Comedy, Sci-Fi",
+            "score": "9.03"
+      },
+      {
+            "rank": "8",
+            "image": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
+            "titles": "Hunter x Hunter",
+            "episodes": "148",
+            "studios": "Madhouse",
+            "genres": "Action, Adventure, Fantasy",
+            "score": "9.03"
+      },
+      {
+            "rank": "9",
+            "image": "https://cdn.myanimelist.net/images/anime/1976/142016.jpg",
+            "titles": "Legend of the Galactic Heroes",
+            "episodes": "110",
+            "studios": "K-Factory, Kitty Film Mitaka Studio",
+            "genres": "Drama, Sci-Fi",
+            "score": "9.02"
+      },
+      {
+            "rank": "10",
+            "image": "https://cdn.myanimelist.net/images/anime/1452/123686.jpg",
+            "titles": "Gintama: Enchousen",
+            "episodes": "13",
+            "studios": "Sunrise",
+            "genres": "Action, Comedy, Sci-Fi",
+            "score": "9.02"
+      }
+   ]
+}
