@@ -1,0 +1,104 @@
+{
+   "result": [
+      {
+        "no": 1,
+        "image": "https://www.indochili.com/wp-content/uploads/2023/05/Sate-ayam.jpg",
+        "name": "Sate Ayam",
+        "origin": "Jawa Tengah",
+        "description": "Sate adalah makanan berupa daging yang dipotong kecil-kecil dan ditusuk dengan tusukan lidi bambu kemudian dipanggang di atas bara arang kayu.",
+        "rating": 4.5,
+        "price": 25000,
+        "category": "Main Course"
+      },
+      {
+        "no": 2,
+        "image": "https://www.indochili.com/wp-content/uploads/2023/05/Rendang.jpg",
+        "name": "Rendang",
+        "origin": "Sumatera Barat",
+        "description": "Rendang adalah masakan daging bercita rasa pedas yang menggunakan campuran dari berbagai bumbu dan rempah-rempah.",
+        "rating": 4.8,
+        "price": 40000,
+        "category": "Main Course"
+      },
+      {
+        "no": 3,
+        "image": "https://www.indochili.com/wp-content/uploads/2023/05/Nasi-goreng-fried-ricce.jpg",
+        "name": "Nasi Goreng",
+        "origin": "Jakarta",
+        "description": "Nasi goreng adalah sebuah makanan berupa nasi yang digoreng dan diaduk dalam minyak goreng atau margarin.",
+        "rating": 4.7,
+        "price": 20000,
+        "category": "Main Course"
+      },
+      {
+        "no": 4,
+        "image": "https://www.indochili.com/wp-content/uploads/2023/05/Indochili-singapore-restaurant-rawon.jpeg",
+        "name": "Nasi Rawon",
+        "origin": "Jawa Timur",
+        "description": "Nasi rawon adalah masakan Indonesia berupa sup daging berkuah hitam dengan menggunakan keluak sebagai bumbu utamanya.",
+        "rating": 4.6,
+        "price": 30000,
+        "category": "Main Course"
+      },
+      {
+        "no": 5,
+        "image": "https://www.indochili.com/wp-content/uploads/2023/05/Sop-buntut-oxtail-soup.jpg",
+        "name": "Sop Buntut",
+        "origin": "Jakarta",
+        "description": "Sop buntut adalah sup yang terbuat dari potongan ekor sapi yang dimasak dengan bumbu rempah-rempah dan sayuran.",
+        "rating": 4.7,
+        "price": 35000,
+        "category": "Main Course"
+      },
+      {
+        "no": 6,
+        "image": "https://www.indochili.com/wp-content/uploads/2023/05/Siomay.jpg",
+        "name": "Siomay",
+        "origin": "Bandung",
+        "description": "Siomay adalah makanan yang terbuat dari ikan yang digiling halus, dicampur dengan tepung tapioka, dan dibungkus dengan kulit pangsit.",
+        "rating": 4.4,
+        "price": 15000,
+        "category": "Snack"
+      },
+      {
+        "no": 7,
+        "image": "https://www.indochili.com/wp-content/uploads/2023/05/Indomie.jpg",
+        "name": "Indomie",
+        "origin": "Jakarta",
+        "description": "Indomie adalah merek mi instan yang diproduksi oleh Indofood, tersedia dalam berbagai varian rasa.",
+        "rating": 4.3,
+        "price": 3000,
+        "category": "Snack"
+      },
+      {
+        "no": 8,
+        "image": "https://www.indochili.com/wp-content/uploads/2023/05/Nasi-uduk.jpg",
+        "name": "Nasi Uduk",
+        "origin": "Jakarta",
+        "description": "Nasi uduk adalah makanan yang terbuat dari nasi yang diaron dan dikukus dengan santan serta bumbu pelengkap seperti serai, kayu manis, pala, dan merica.",
+        "rating": 4.5,
+        "price": 15000,
+        "category": "Main Course"
+      },
+      {
+        "no": 9,
+        "image": "https://www.indochili.com/wp-content/uploads/2023/05/Sweet-Martabak.jpg",
+        "name": "Martabak Manis",
+        "origin": "Bandung",
+        "description": "Martabak manis adalah kue yang berbentuk bulat dan tebal yang biasanya diisi dengan cokelat, kacang, dan keju.",
+        "rating": 4.6,
+        "price": 25000,
+        "category": "Dessert"
+      },
+      {
+        "no": 10,
+        "image": "https://www.indochili.com/wp-content/uploads/2023/05/Pempek.jpg",
+        "name": "Pempek",
+        "origin": "Palembang",
+        "description": "Pempek adalah makanan khas Palembang yang terbuat dari daging ikan yang digiling lembut dan dicampur dengan tepung kanji serta komposisi bahan lainnya.",
+        "rating": 4.5,
+        "price": 20000,
+        "category": "Snack"
+      }
+   ]
+}
